@@ -1,2 +1,9 @@
 Este es un mensaje de Kempis
+<<<<<<< HEAD
+Nueva linea
+Nueva linea ++
+=======
 Nueva linea, hola
+>>>>>>> main
+Hola Mundo
+Hola Mundo 2
